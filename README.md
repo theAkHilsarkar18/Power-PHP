@@ -1,7 +1,6 @@
-
 ## Roadmap
 
-- How Internet & Websites works
+- How the Internet & Websites work
 - Browser/Server request flow, HTTP Protocol, Status codes
 - Basics of HTML/CSS
 - Basics of Javascript
